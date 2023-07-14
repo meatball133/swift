@@ -69,10 +69,8 @@
         "name": "Vexing Vehicle Purchase",
         "uuid": "6fa28581-0992-4770-a657-2bb5157db178",
         "concepts": [
-          "booleans",
           "conditionals-if",
           "conditionals-guard",
-          "conditionals-switch",
           "ternary-operator"
         ],
         "prerequisites": ["basics"],
@@ -83,7 +81,7 @@
         "name": "Magician-in-Training",
         "uuid": "e6143dbc-895e-47aa-b42c-3034e1f872c2",
         "concepts": ["arrays"],
-        "prerequisites": ["conditionals-if", "conditionals-guard", "conditionals-switch"],
+        "prerequisites": ["characters"],
         "status": "active"
       },
       {
