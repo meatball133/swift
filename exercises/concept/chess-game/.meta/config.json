@@ -1,0 +1,18 @@
+{
+  "authors": [
+    "meatball133"
+  ],
+  "files": {
+    "solution": [
+      "Sources/ChessGame/ChessGame.swift"
+    ],
+    "test": [
+      "Tests/ChessGameTests/ChessGameTests.swift"
+    ],
+    "exemplar": [
+      ".meta/Sources/ChessGame/ChessGameExemplar.swift"
+    ]
+  },
+  "blurb": "Learn about ranges while making a chess game.",
+  "icon": "chessboard"
+}
